@@ -269,3 +269,12 @@ footer > div:last-child {
 }
 
 
+/* 상단 헤딩영역 세팅 */
+.nav > li > a {
+    padding: 8px 10px;
+}
+
+.nav > li > a:hover {
+    background-color: orange;
+    border-radius: 18px;
+}
